@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "Luuuuli.github.io/quartz-blog",
+    baseUrl: "https://Luuuuli.github.io/quartz-blog",
     ignorePatterns: ["private", "**/Templates/**", "**/.obsidian/**", "**/01-Home*/AI助手*"],
     defaultDateType: "modified",
     theme: {
